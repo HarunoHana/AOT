@@ -1,7 +1,7 @@
 # Attack on Titan (AOT) Fan Page
 
 ## Overview
-This is the fanpage that I made for Attack on Titan. This project is a tribute to the popular anime series, featuring a dynamically styled website with music integration and multi-language support, crafted with HTML, CSS, and JavaScript.
+This is the fanpage that I made for Attack on Titan while I was learning how to use HTML/CSS and JS. This project is a tribute to the popular anime series, featuring a dynamically styled website with music integration and multi-language support, crafted with HTML, CSS, and JavaScript.
 
 ## Features
 - **Music Integration:** Experience the intense atmosphere of AOT with integrated theme music, bringing the world of the anime to life.
